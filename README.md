@@ -12,28 +12,7 @@
 
 ---
 
-## 🎯 About Me - The Journey
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```javascript
-const krutam = {
-    location: "Rajkot, Gujarat 🇮🇳",
-    role: "Full Stack Developer",
-    code: ["C#", "Java", "Python", "JavaScript", "PHP", "Dart"],
-    technologies: {
-        mobile: ["Flutter", "Android"],
-        frontEnd: ["HTML", "CSS", "Bootstrap", "Tailwind"],
-        backEnd: [".NET", "Node.js", "PHP"],
-        databases: ["MySQL", "Firebase", "MongoDB"],
-        tools: ["Git", "Figma", "VS Code", "Adobe Suite"]
-    },
-    currentFocus: "Building Scalable Applications 🎯",
-    funFact: "Debugging is like being a detective 🕵️"
-};
-```
-
-<br clear="right"/>
 
 ---
 
@@ -211,29 +190,7 @@ const krutam = {
 
 ---
 
-## 🎮 When I'm Not Coding...
 
-<div align="center">
-
-```typescript
-class KrutamLifestyle {
-    readonly hobbies = ['Photography 📸', 'Design 🎨', 'Tech Blogs 📝', 'Coffee ☕'];
-    readonly motto = 'Code. Create. Innovate. Repeat.';
-    
-    dailyRoutine() {
-        while (alive) {
-            eat();
-            code();
-            sleep();
-            repeat();
-        }
-    }
-    
-    careerGoal = "Building products that make a difference! 🚀";
-}
-```
-
-</div>
 
 ---
 
